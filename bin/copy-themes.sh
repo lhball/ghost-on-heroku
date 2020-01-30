@@ -1,5 +1,6 @@
 themes=(
 	casper
+	custom
 	attila
 	london
 	massively
